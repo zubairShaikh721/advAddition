@@ -1,0 +1,28 @@
+{
+  "name": "advaddition",
+  "version": "1.1.1",
+  "description": "user defined test module for addition",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zubairShaikh721/advAddition.git"
+  },
+  "keywords": [
+    "adv",
+    "advance",
+    "addition"
+  ],
+  "author": "zubair lee <johnextentia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zubairShaikh721/advAddition/issues"
+  },
+  "homepage": "https://github.com/zubairShaikh721/advAddition#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
